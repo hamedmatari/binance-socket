@@ -1,7 +1,7 @@
 import setuptools
 
-with open("requirements.txt", "r") as fh:
-    requirements = [line.strip() for line in fh]
+# with open("requirements.txt", "r") as fh:
+#     requirements = [line.strip() for line in fh]
 
 setuptools.setup(
     name="send-sms",
